@@ -1,0 +1,5 @@
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Configuracion\obj\Debug\net6.0\N5_Configuracion.csproj.AssemblyReference.cache
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Configuracion\obj\Debug\net6.0\N5_Configuracion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Configuracion\obj\Debug\net6.0\N5_Configuracion.AssemblyInfoInputs.cache
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Configuracion\obj\Debug\net6.0\N5_Configuracion.AssemblyInfo.cs
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Configuracion\obj\Debug\net6.0\N5_Configuracion.csproj.CoreCompileInputs.cache

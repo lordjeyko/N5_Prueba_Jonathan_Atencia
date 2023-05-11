@@ -1,0 +1,12 @@
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\Entidades_Dto\bin\Debug\net6.0\Entidades_Dto.deps.json
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\Entidades_Dto\bin\Debug\net6.0\Entidades_Dto.dll
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\Entidades_Dto\bin\Debug\net6.0\Entidades_Dto.pdb
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\Entidades_Dto\obj\Debug\net6.0\Entidades_Dto.csproj.AssemblyReference.cache
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\Entidades_Dto\obj\Debug\net6.0\Entidades_Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\Entidades_Dto\obj\Debug\net6.0\Entidades_Dto.AssemblyInfoInputs.cache
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\Entidades_Dto\obj\Debug\net6.0\Entidades_Dto.AssemblyInfo.cs
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\Entidades_Dto\obj\Debug\net6.0\Entidades_Dto.csproj.CoreCompileInputs.cache
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\Entidades_Dto\obj\Debug\net6.0\Entidades_Dto.dll
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\Entidades_Dto\obj\Debug\net6.0\refint\Entidades_Dto.dll
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\Entidades_Dto\obj\Debug\net6.0\Entidades_Dto.pdb
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\Entidades_Dto\obj\Debug\net6.0\ref\Entidades_Dto.dll

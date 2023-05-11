@@ -1,0 +1,17 @@
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Negocio\obj\Debug\net6.0\N5_Negocio.csproj.AssemblyReference.cache
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Negocio\obj\Debug\net6.0\N5_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Negocio\obj\Debug\net6.0\N5_Negocio.AssemblyInfoInputs.cache
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Negocio\obj\Debug\net6.0\N5_Negocio.AssemblyInfo.cs
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Negocio\obj\Debug\net6.0\N5_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Negocio\bin\Debug\net6.0\N5_Negocio.deps.json
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Negocio\bin\Debug\net6.0\N5_Negocio.dll
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Negocio\bin\Debug\net6.0\N5_Negocio.pdb
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Negocio\bin\Debug\net6.0\Entidades_Dto.dll
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Negocio\bin\Debug\net6.0\N5_Data.dll
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Negocio\bin\Debug\net6.0\Entidades_Dto.pdb
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Negocio\bin\Debug\net6.0\N5_Data.pdb
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Negocio\obj\Debug\net6.0\N5_Negocio.csproj.CopyComplete
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Negocio\obj\Debug\net6.0\N5_Negocio.dll
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Negocio\obj\Debug\net6.0\refint\N5_Negocio.dll
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Negocio\obj\Debug\net6.0\N5_Negocio.pdb
+C:\Users\jonka\Documents\Curso\VS2022Ejercicio1\N5_Prueba_Jonathan_Atencia\N5_Negocio\obj\Debug\net6.0\ref\N5_Negocio.dll

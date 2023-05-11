@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>N5_Api</name>
+    </assembly>
+    <members>
+        <member name="T:N5_Api.Controllers.AuthController">
+            <summary>
+            Solicitud de credenciales
+            </summary>
+        </member>
+        <member name="M:N5_Api.Controllers.AuthController.Auth(Entidades_Dto.Negocio.UsuarioDto)">
+            <summary>
+            Permite genear el Token Jwt, siempre y cuando se envie correctamente la información
+            </summary>
+            <returns>Listado de empleados</returns>
+        </member>
+        <member name="T:N5_Api.Controllers.EmpleadosController">
+            <summary>
+            Administrador de Empleados
+            </summary>
+        </member>
+        <member name="M:N5_Api.Controllers.EmpleadosController.Listar">
+            <summary>
+            Permite listar todos los empleados, esto con el fin de validar 
+            la data para pruebas
+            </summary>
+            <returns>Listado de empleados</returns>
+        </member>
+        <member name="T:N5_Api.Controllers.PerfilesController">
+            <summary>
+            Adminitracion de los perfiles, esto incluye los permisos y tipo de permisos
+            </summary>
+        </member>
+        <member name="M:N5_Api.Controllers.PerfilesController.Listar">
+            <summary>
+            Obtiene el listado completo de roles registrados
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:N5_Api.Controllers.PerfilesController.ListarTipoRol">
+            <summary>
+            Obtiene el listado completo de tipos de rol registrados
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:N5_Api.Controllers.PerfilesController.Obtener(System.Guid)">
+            <summary>
+            Obtiene un rol, a traves de su identificador
+            </summary>
+            <param name="id">Identificador unico del rol</param>
+            <returns></returns>
+        </member>
+        <member name="M:N5_Api.Controllers.PerfilesController.ObtenerTipoRol(System.Guid)">
+            <summary>
+            Obtiene un tipo de rol, a traves de su identificador
+            </summary>
+            <param name="id">Identificador unico del tipo de rol</param>
+            <returns></returns>
+        </member>
+        <member name="M:N5_Api.Controllers.PerfilesController.Registrar(Entidades_Dto.Perfiles.RolDto_Create)">
+            <summary>
+            Genera un nuevo registro de un rol
+            </summary>
+            <param name="registro">Información del rol</param>
+            <returns></returns>
+        </member>
+        <member name="M:N5_Api.Controllers.PerfilesController.RegistrarTipoRol(Entidades_Dto.Perfiles.TipoRolDto_Create)">
+            <summary>
+            Genera un nuevo registro de un tipo de rol
+            </summary>
+            <param name="registro">Información del tipo de rol</param>
+            <returns></returns>
+        </member>
+        <member name="M:N5_Api.Controllers.PerfilesController.Modificar(Entidades_Dto.Perfiles.RolDto_Get)">
+            <summary>
+            Permite la edicion de la informacion de un rol
+            </summary>
+            <param name="registro">Datos nuevos del rol y su identificador</param>
+            <returns></returns>
+        </member>
+        <member name="M:N5_Api.Controllers.PerfilesController.ModificarTipoRol(Entidades_Dto.Perfiles.TipoRolDto_Get)">
+            <summary>
+            Permite la edicion de la informacion de un tipo de rol
+            </summary>
+            <param name="registro">Datos nuevos del tipo de rol y su identificador</param>
+            <returns></returns>
+        </member>
+        <member name="M:N5_Api.Controllers.PerfilesController.Borrar(System.Guid)">
+            <summary>
+            Eliminación de rol especifico
+            </summary>
+            <param name="id">Identificador unico del rol</param>
+            <returns></returns>
+        </member>
+        <member name="M:N5_Api.Controllers.PerfilesController.BorrarTipoRol(System.Guid)">
+            <summary>
+            Eliminación de un tipo de rol especifico
+            </summary>
+            <param name="id">Identificador unico del tipo de rol</param>
+            <returns></returns>
+        </member>
+        <member name="M:N5_Api.Controllers.PerfilesController.BorrarPerfilUsuario(System.Guid)">
+            <summary>
+            Eliminación una congiracion de rol en usuario
+            </summary>
+            <param name="id">Identificador unico del tipo de perfil</param>
+            <returns></returns>
+        </member>
+        <member name="M:N5_Api.Controllers.PerfilesController.ModificarPerfilUsuario(Entidades_Dto.Perfiles.PerfilDto_Get)">
+            <summary>
+            Modifica una congiracion de rol en usuario
+            </summary>
+            <param name="registro">Registro de perfil</param>
+            <returns></returns>
+        </member>
+        <member name="M:N5_Api.Controllers.PerfilesController.AgregarPerfilUsuario(Entidades_Dto.Perfiles.PerfilDto_Create)">
+            <summary>
+            Agregar una congiracion de rol en usuario
+            </summary>
+            <param name="registro">Registro de perfil</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
